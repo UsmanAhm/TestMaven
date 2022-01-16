@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.06 s <<< FAILURE! - in CalculatorTest
+multiply3  Time elapsed: 0.019 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Regular multiplication should work ==> expected: <20> but was: <15>
+	at CalculatorTest.multiply3(CalculatorTest.java:29)
+
